@@ -6,7 +6,7 @@ If you work on more than one feature at a time, you are guaranteed to multiply y
 
 But anxiety is so much fun. That's why they call it "Panic Attacks" 
 
-# Developer Notes
+# Developer Note
 
 wirebranch = ./assets/wirebranch.png
 
